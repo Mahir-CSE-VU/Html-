@@ -18,4 +18,9 @@
 ```html
 
     <h1></h1>  this is for heading we cn use it h6 .
+
+     <p></p>  pragraph type .
+
+
+
 ```

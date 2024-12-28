@@ -1,7 +1,7 @@
 # Html-
 -Body Formet
 ```html
-<!DOCTYPE html>
+<!DOCTYPE html>-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,6 +12,10 @@
     
 </body>
 </html>
+```
+-Tag for html
 
+```html
 
+    <h1></h1>  this is for heading we cn use it h6 .
 ```

@@ -65,7 +65,9 @@
 
     <sup></sup>    its small the letter and written up
 
-    <pre></pre>    count speach and next line 
+    <pre></pre>    count speach and next line
+
+    <q></q>  ,  <blockquote></blockquote>      for  quotetion 
 
 ```
 

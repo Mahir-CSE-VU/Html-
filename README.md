@@ -89,7 +89,8 @@
 - Unoder list
 ```html
 
-<ul>
+<ul type="" >
+
 
 <li></li>
 <li></li>
@@ -102,7 +103,8 @@
 - Oder list
 ```html
 
-<ol>
+
+<ol type="" >
 
 <li></li>
 <li></li>
@@ -110,5 +112,6 @@
 <li></li>
 
 </ol>
+
 
 ```

@@ -26,7 +26,15 @@
 <body>
     <header></header>
     
-    <main></main>
+    <main>
+
+    <section></section>   
+
+    <article></article>  
+
+    <aside></aside> not page topic
+ 
+    </main>
 
     <footer></footer>
 

@@ -39,6 +39,13 @@
 
     <small></small>   for small
 
+    <hr>     for horizontal line
+
+    <sub></sub>    its small the letter and written ground 
+
+    <sup></sup>    its small the letter and written up
+
+    <pre></pre>    count speach and next line 
 
 ```
 

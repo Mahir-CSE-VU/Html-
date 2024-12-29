@@ -17,12 +17,13 @@
 
 ```html
 
-    <h1></h1>      this is for heading we cn use it h6 .
+     <h1></h1>      this is for heading we cn use it h6 .
 
      <p></p>  pragraph type .
 
      <!-- comment -->      this tag   for comment.
 
+      <a href=""></a> link add kora
 ```
 -Attributes
 ```html

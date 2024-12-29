@@ -17,15 +17,15 @@
 
 ```html
 
-    <h1></h1>  this is for heading we cn use it h6 .
+    <h1></h1>      this is for heading we cn use it h6 .
 
      <p></p>  pragraph type .
 
-     <!-- comment --> this tag   for comment.
+     <!-- comment -->      this tag   for comment.
 
 ```
 -Attributes
 ```html
 
-<html lang="en">
+<html lang="en">    ata single qutetion er modehe likha jai 
 ```

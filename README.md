@@ -35,6 +35,9 @@
 
     <u></u> ,  <ins></ins>    for underline
 
+    <big></big>   for big
+
+    <small></small>   for small
 
 
 ```

@@ -41,8 +41,4 @@
 
 
 ```
--Attributes
-```html
 
-<html lang="en">    ata single qutetion er modehe likha jai 
-```

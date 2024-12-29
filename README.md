@@ -43,7 +43,9 @@
 
     <!-- comment -->      this tag   for comment.
 
-    <a href=""></a> link add 
+    <a href=""></a> link add
+
+    <a href="" target="_main"> <img src="" alt=""></a>      for  lmage link
 
     <br>    next line
 
@@ -67,7 +69,9 @@
 
     <pre></pre>    count speach and next line
 
-    <q></q>  ,  <blockquote></blockquote>      for  quotetion 
+    <q></q>  ,  <blockquote></blockquote>      for  quotetion
+
+    
 
 ```
 

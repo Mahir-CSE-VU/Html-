@@ -45,6 +45,10 @@
 
 ```html
 
+     <div></div>      for block elements  it take full width
+
+     <span></span>    for inline elements ot tale width per size
+
     <h1></h1>      this is for heading we can use it h1 to h6 .
 
     <p></p>  pragraph type .

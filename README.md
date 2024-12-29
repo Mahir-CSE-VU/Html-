@@ -24,6 +24,13 @@
      <!-- comment -->      this tag   for comment.
 
       <a href=""></a> link add kora
+
+      <br>  next line
+
+    <img src="" alt="">   for add images
+
+     <b></b>  for bold 
+
 ```
 -Attributes
 ```html

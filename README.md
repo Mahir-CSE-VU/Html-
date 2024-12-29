@@ -13,7 +13,7 @@
 </body>
 </html>
 ```
--Stracture 
+-Stracture of a web page
 ```html
 
 <!DOCTYPE html>

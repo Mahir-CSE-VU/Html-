@@ -24,3 +24,8 @@
      <!-- comment --> this tag   for comment.
 
 ```
+-Attributes
+```html
+
+<html lang="en">
+```

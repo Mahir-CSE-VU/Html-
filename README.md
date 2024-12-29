@@ -17,19 +17,25 @@
 
 ```html
 
-     <h1></h1>      this is for heading we cn use it h6 .
+    <h1></h1>      this is for heading we cn use it h6 .
 
-     <p></p>  pragraph type .
+    <p></p>  pragraph type .
 
-     <!-- comment -->      this tag   for comment.
+    <!-- comment -->      this tag   for comment.
 
-      <a href=""></a> link add kora
+    <a href=""></a> link add kora
 
-      <br>  next line
+    <br>    next line
 
-    <img src="" alt="">   for add images
+    <img src="" alt="">     for add images
 
-     <b></b>  for bold 
+    <b></b> , <strong></strong>    for bold 
+
+    <i></i> , <em></em>    foe italic
+
+    <u></u> ,  <ins></ins>    for underline
+
+
 
 ```
 -Attributes

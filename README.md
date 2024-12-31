@@ -149,7 +149,7 @@ rowspan=""
 colspan=""
 
 ```
-- Audio Vdio
+- Audio Vedio
 ```html
 
      <video src="" controls loop></video>

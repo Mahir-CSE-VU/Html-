@@ -13,7 +13,7 @@
 </body>
 </html>
 ```
--Stracture of a web page
+- Stracture of a web page
 ```html
 
 <!DOCTYPE html>
@@ -41,7 +41,7 @@
 </body>
 </html>
 ```
--Tag for html
+- Tag for html
 
 ```html
 
@@ -115,7 +115,7 @@
 
 
 ```
--Table
+-  Table
 ```html
 
 
@@ -149,7 +149,4 @@ rowspan=""
 colspan=""
 
 ```
-- div = fiheghieuhgie
-```HTML
-```
-- div = starts with `<div>` and ends with `</div>`
+

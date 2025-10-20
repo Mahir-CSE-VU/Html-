@@ -163,7 +163,22 @@ colspan=""
 - Form
 ```html
 
-Mahir
+<fieldset>
+
+<legend></legend>
+
+<label for=""></label>
+<input type="text">
+
+<datalist>
+    <option value=""></option>
+</datalist>
+
+<textarea name="" id=""></textarea>   
+
+</fieldset>
+
+
 
 ```
 
